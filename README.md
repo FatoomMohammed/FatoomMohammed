@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 Hello, I'm Fatoom
+## 👋 Hello, I'm Fatima
 
 🎓 **2nd-Year BTech Student**  
 📊 **Aspiring Data Analyst**
@@ -126,12 +126,11 @@ A console-based theatre seat booking project.
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
-I have earned GitHub achievements including:
-
-**YOLO • Quickdraw**
-
+<p align="center">
+  <img src="./githubachievements.png. jpeg" width="500" alt="FatoomMohammed GitHub Achievements">
+</p>
 ---
 
 # 🎯 2026 Goals
@@ -167,7 +166,7 @@ I have earned GitHub achievements including:
   <img src="https://img.shields.io/badge/GitHub-FatoomMohammed-0F172A?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/fatoom-mohammed-62a49b42a">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
