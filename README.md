@@ -129,7 +129,7 @@ A console-based theatre seat booking project.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="./githubachievements.png. jpeg" width="500" alt="FatoomMohammed GitHub Achievements">
+  <img src="./github-achievements.png" width="500" alt="FatoomMohammed GitHub Achievements">
 </p>
 ---
 
