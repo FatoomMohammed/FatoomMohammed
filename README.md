@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Fatoom%20Mohammed&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:0F172A,50:312E81,100:0891B2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Fatima%20Mohammed&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:0F172A,50:312E81,100:0891B2" />
 </p>
 
 <p align="center">
