@@ -166,7 +166,7 @@ A console-based theatre seat booking project.
   <img src="https://img.shields.io/badge/GitHub-FatoomMohammed-0F172A?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="www.linkedin.com/in/fatoom-mohammed-62a49b42a">
+<a href="https://www.linkedin.com/in/fatoom-mohammed-62a49b42a">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
